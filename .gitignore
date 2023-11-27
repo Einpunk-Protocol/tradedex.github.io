@@ -1,3 +1,5 @@
 .env
 .vscode/
 Library/
+.bash_profile
+.DS_Store
