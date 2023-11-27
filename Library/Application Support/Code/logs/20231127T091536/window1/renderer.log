@@ -1,0 +1,10 @@
+2023-11-27 09:15:41.006 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-27 09:15:42.774 [info] Started initializing default profile extensions in extensions installation folder. file:///Users/local/Music/predominant-planet/tradedex/.vscode/extensions
+2023-11-27 09:15:44.391 [info] Completed initializing default profile extensions in extensions installation folder. file:///Users/local/Music/predominant-planet/tradedex/.vscode/extensions
+2023-11-27 09:15:50.405 [info] [perf] Render performance baseline is 68ms
+2023-11-27 09:36:13.964 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-11-27 09:36:15.537 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-11-27 09:36:18.805 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-11-27 09:36:19.853 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-11-27 09:41:28.276 [info] Settings Sync: Updating due to change in sessions
+2023-11-27 09:41:28.279 [info] Settings Sync: Updated current session 7ea9f9557a835314

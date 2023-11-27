@@ -1,0 +1,13 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "shift+enter",
+        "command": "pythonIndent.newlineAndIndent",
+        "when": "editorTextFocus && !editorHasMultipleSelections && !neovim.mode && !suggestWidgetVisible && !vim.active && editorLangId == 'python'"
+    },
+    {
+        "key": "enter",
+        "command": "-pythonIndent.newlineAndIndent",
+        "when": "editorTextFocus && !editorHasMultipleSelections && !neovim.mode && !suggestWidgetVisible && !vim.active && editorLangId == 'python'"
+    }
+]
