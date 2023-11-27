@@ -2,7 +2,7 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
-            "file:///Users/local/Music/predominant-planet/tradedex": "__default__profile__"
+            "file:///Users/local/Music/predominant-planet/tradedex": "-23776026"
         },
         "emptyWindows": {}
     },
@@ -57,8 +57,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -130,8 +129,15 @@
                         "submenu": {
                             "items": [
                                 {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.profiles.actions.exportProfile",
-                                    "label": "Export Profile (Default)..."
+                                    "label": "Export Profile (tradedex)..."
                                 },
                                 {
                                     "id": "workbench.profiles.actions.importProfile",
@@ -526,6 +532,13 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -614,8 +627,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -1080,16 +1092,96 @@
                 "items": [
                     {
                         "id": "submenuitem.Profiles",
-                        "label": "Profiles (Default)",
+                        "label": "Profiles (tradedex)",
                         "submenu": {
                             "items": [
                                 {
+                                    "id": "workbench.profiles.actions.profileEntry.-477b81db",
+                                    "label": "Avax-Lab"
+                                },
+                                {
                                     "id": "workbench.profiles.actions.profileEntry.__default__profile__",
-                                    "label": "Default",
+                                    "label": "Default"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.450a2a9a",
+                                    "label": "Dev-Einpunk"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.5a4ebb9",
+                                    "label": "dev-einstein"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.4fd017be",
+                                    "label": "DevRust"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.-39abf3a9",
+                                    "label": "einpunk-community"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.640fbf12",
+                                    "label": "Einstein Punk"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.-610fd5e5",
+                                    "label": "einsteinpunk"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.-65822d12",
+                                    "label": "eth-brownie"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.-7aba1934",
+                                    "label": "Gamex Java"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.-114c3deb",
+                                    "label": "Gamex Server"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.-238b9c88",
+                                    "label": "gamex-staking"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.60d222c5",
+                                    "label": "GITLAB"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.5ddfe975",
+                                    "label": "mainDirectory"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.68f0b617",
+                                    "label": "MoralisBlueprint"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.12d7b3e6",
+                                    "label": "Predominant Planet"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.-75365e0",
+                                    "label": "Python"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.-49815360",
+                                    "label": "scaffold-eth"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.-23776026",
+                                    "label": "tradedex",
                                     "checked": true
                                 },
                                 {
+                                    "id": "workbench.profiles.actions.profileEntry.7609d0f2",
+                                    "label": "Wallets"
+                                },
+                                {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.editCurrentProfile",
+                                    "label": "Edit Profile..."
                                 },
                                 {
                                     "id": "workbench.profiles.actions.showProfileContents",
@@ -1104,8 +1196,7 @@
                                 },
                                 {
                                     "id": "workbench.profiles.actions.deleteProfile",
-                                    "label": "Delete Profile...",
-                                    "enabled": false
+                                    "label": "Delete Profile..."
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1167,13 +1258,6 @@
                     {
                         "id": "settings.filterByOnline",
                         "label": "&&Online Services Settings"
-                    },
-                    {
-                        "id": "vscode.menubar.separator"
-                    },
-                    {
-                        "id": "workbench.userDataSync.actions.turnOn",
-                        "label": "Backup and Sync Settings..."
                     }
                 ]
             }
@@ -1372,6 +1456,11 @@
                 "label": "⌘K ⌃⌥⌘¥",
                 "isNative": false,
                 "userSettingsLabel": "cmd+k ctrl+alt+cmd+[IntlYen]"
+            },
+            "workbench.action.splitEditorInGroup": {
+                "label": "⌘K ⇧⌘¥",
+                "isNative": false,
+                "userSettingsLabel": "cmd+k shift+cmd+[IntlYen]"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Alt+Cmd+0",
@@ -1652,5 +1741,83 @@
             }
         },
         "openedWindows": []
-    }
+    },
+    "userDataProfiles": [
+        {
+            "location": "-23776026",
+            "name": "tradedex"
+        },
+        {
+            "location": "5a4ebb9",
+            "name": "dev-einstein"
+        },
+        {
+            "location": "-477b81db",
+            "name": "Avax-Lab"
+        },
+        {
+            "location": "4fd017be",
+            "name": "DevRust"
+        },
+        {
+            "location": "450a2a9a",
+            "name": "Dev-Einpunk"
+        },
+        {
+            "location": "-7aba1934",
+            "name": "Gamex Java"
+        },
+        {
+            "location": "-39abf3a9",
+            "name": "einpunk-community"
+        },
+        {
+            "location": "-114c3deb",
+            "name": "Gamex Server"
+        },
+        {
+            "location": "-65822d12",
+            "name": "eth-brownie"
+        },
+        {
+            "location": "-610fd5e5",
+            "name": "einsteinpunk"
+        },
+        {
+            "location": "640fbf12",
+            "name": "Einstein Punk"
+        },
+        {
+            "location": "-238b9c88",
+            "name": "gamex-staking"
+        },
+        {
+            "location": "60d222c5",
+            "name": "GITLAB"
+        },
+        {
+            "location": "5ddfe975",
+            "name": "mainDirectory"
+        },
+        {
+            "location": "7609d0f2",
+            "name": "Wallets"
+        },
+        {
+            "location": "12d7b3e6",
+            "name": "Predominant Planet"
+        },
+        {
+            "location": "-49815360",
+            "name": "scaffold-eth"
+        },
+        {
+            "location": "-75365e0",
+            "name": "Python"
+        },
+        {
+            "location": "68f0b617",
+            "name": "MoralisBlueprint"
+        }
+    ]
 }

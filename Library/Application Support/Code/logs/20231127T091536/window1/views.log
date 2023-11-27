@@ -11,3 +11,13 @@
 2023-11-27 09:15:45.975 [info] Removed views:workbench.debug.breakPointsView,workbench.debug.callStackView,workbench.debug.watchExpressionsView,workbench.debug.variablesView from workbench.view.debug
 2023-11-27 09:15:45.977 [info] Added views:workbench.debug.welcome in workbench.view.debug
 2023-11-27 09:15:47.704 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2023-11-27 09:44:23.350 [info] Added views:workbench.views.sync.conflicts in workbench.view.sync
+2023-11-27 09:44:27.477 [info] Removed views:workbench.views.sync.conflicts from workbench.view.sync
+2023-11-27 09:44:28.560 [info] View visibility state changed: workbench.explorer.openEditorsView is now visible Explorer
+2023-11-27 09:44:28.561 [info] View visibility state changed: npm is now visible Explorer
+2023-11-27 09:44:28.566 [info] Showing view workbench.explorer.openEditorsView in the container workbench.view.explorer
+2023-11-27 09:44:28.566 [info] Showing view npm in the container workbench.view.explorer
+2023-11-27 09:44:28.617 [info] Added views:workbench.explorer.openEditorsView,npm in workbench.view.explorer
+2023-11-27 09:44:57.087 [info] Removed views:npm,workbench.explorer.openEditorsView from workbench.view.explorer
+2023-11-27 09:45:12.867 [info] Removed views:workbench.panel.repl.view from workbench.panel.repl
+2023-11-27 09:45:14.443 [info] Added views:workbench.panel.repl.view in workbench.panel.repl

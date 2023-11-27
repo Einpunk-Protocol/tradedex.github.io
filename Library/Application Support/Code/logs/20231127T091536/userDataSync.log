@@ -36,3 +36,262 @@
 2023-11-27 09:41:40.275 [info] GlobalState: Updated local ui state
 2023-11-27 09:41:40.551 [info] GlobalState: Last sync resource does not exist locally.
 2023-11-27 09:41:40.576 [info] GlobalState: Updated last synchronized ui state
+2023-11-27 09:41:45.356 [info] Extensions: Skipped synchronizing extension because the extension is not found. ascomycota.python-six
+2023-11-27 09:41:45.358 [info] Extensions: Skipped synchronizing extension because the extension is not found. github.copilot-nightly
+2023-11-27 09:41:45.359 [info] Extensions: Disabled extension ibm.zopeneditor 3.3.1
+2023-11-27 09:41:46.457 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:41:46.459 [info] Extensions: Last sync data state does not exist.
+2023-11-27 09:41:46.800 [info] Extensions: Disabled extension zowe.vscode-extension-for-zowe 2.12.2
+2023-11-27 09:41:46.808 [info] Extensions: Skipped synchronizing extension because the extension is not found. btwiuse.vscode-remote-server
+2023-11-27 09:41:47.988 [info] Sync started.
+2023-11-27 09:41:48.295 [info] Extensions: Skipped synchronizing extension because the extension is not found. googlecloudtools.cloudcode
+2023-11-27 09:41:48.298 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:41:48.299 [info] Extensions: Last sync data state does not exist.
+2023-11-27 09:41:56.952 [info] Did reset the local sync state.
+2023-11-27 09:41:56.955 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:41:56.956 [info] Settings: Last sync data state does not exist.
+2023-11-27 09:41:59.017 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:41:59.018 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:41:59.018 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:41:59.019 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:42:02.049 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:42:02.049 [info] Settings: Last sync data state does not exist.
+2023-11-27 09:42:56.656 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:42:56.663 [info] Keybindings: Last sync data state does not exist.
+2023-11-27 09:43:22.198 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:43:22.199 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:43:22.244 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:43:22.245 [info] Snippets: Last sync data state does not exist.
+2023-11-27 09:44:01.411 [info] Sync started.
+2023-11-27 09:44:02.520 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:02.520 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:44:02.791 [info] Did reset the local sync state.
+2023-11-27 09:44:03.010 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:03.011 [info] Settings: Last sync data state does not exist.
+2023-11-27 09:44:03.629 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:03.630 [info] Settings: Last sync data state does not exist.
+2023-11-27 09:44:03.638 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:03.638 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:44:04.807 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:04.807 [info] Keybindings: Last sync data state does not exist.
+2023-11-27 09:44:05.827 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:05.827 [info] Snippets: Last sync data state does not exist.
+2023-11-27 09:44:06.610 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:06.632 [info] Tasks: Last sync data state does not exist.
+2023-11-27 09:44:07.529 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:07.529 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:44:09.820 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:09.820 [info] Extensions: Last sync data state does not exist.
+2023-11-27 09:44:15.753 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:15.753 [info] Profiles: Last sync data state does not exist.
+2023-11-27 09:44:16.331 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:16.332 [info] Profiles: Last sync data state does not exist.
+2023-11-27 09:44:24.323 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:24.323 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:44:27.583 [info] Settings: Updated local settings
+2023-11-27 09:44:27.752 [error] LocalPreconditionFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Unable to write file 'vscode-userdata:/Users/local/Music/predominant-planet/tradedex/Library/Application Support/Code/User/settings.json' (Error: File Modified Since)
+    at u.wb (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:21021)
+    at async u.tb (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:52914)
+    at async u.ab (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:15032)
+    at async u.apply (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:10311)
+    at async a.apply (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:111986)
+    at async r.R (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:103666)
+    at async Object.apply (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:102252)
+    at async g.call (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:114923)
+2023-11-27 09:44:27.753 [error] settings: Unable to write file 'vscode-userdata:/Users/local/Music/predominant-planet/tradedex/Library/Application Support/Code/User/settings.json' (Error: File Modified Since)
+2023-11-27 09:44:27.753 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-11-27 09:44:27.804 [info] Keybindings: Updated last synchronized keybindings
+2023-11-27 09:44:27.815 [info] Snippets: No changes found during synchronizing snippets.
+2023-11-27 09:44:27.823 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:27.823 [info] Settings: Last sync data state does not exist.
+2023-11-27 09:44:27.847 [info] Snippets: Updated last synchronized snippets
+2023-11-27 09:44:27.852 [info] Tasks: No changes found during synchronizing tasks.
+2023-11-27 09:44:27.886 [info] Tasks: Updated last synchronized tasks
+2023-11-27 09:44:27.943 [info] GlobalState: Updated global state ["github-einstein-punk","terminal.hidden","workbench.explorer.views.state.hidden","workbench.scm.views.state.hidden","workbench.activity.pinnedViewlets2","nps/lastSessionDate","workbench.view.debug.state.hidden","workbench.statusbar.hidden","workbench.panel.pinnedPanels","cpp.1.lastSessionDate","cpp.1.sessionCount","java.2.lastSessionDate","java.2.sessionCount","javascript.1.lastSessionDate","javascript.1.sessionCount","typescript.1.lastSessionDate","typescript.1.sessionCount","colorThemeData","ces/skipSurvey","memento/gettingStartedService","workbench.welcomePage.walkthroughMetadata","workbench.view.extensions.state.hidden","javascript.1.editedCount","javascript.1.editedDate","fileBasedRecommendations/promptedRecommendations","workbench.view.extension.test.state.hidden","nps/skipVersion","commandPalette.mru.cache","commandPalette.mru.counter","fileBasedRecommendations/promptedFileExtensions","workbench.view.remote.state.hidden","remote.explorerType","workbench.welcomePage.hiddenCategories","workbench.view.extension.liveshare.state.hidden","workbench.view.extension.package-explorer.state.hidden","javascript.1.skipVersion","workbench.view.extension.azure.state.hidden","typescript.1.editedCount","typescript.1.editedDate","snippets.usageTimestamps","csharp.1.lastSessionDate","csharp.1.sessionCount","remoteTunnelServiceUsed"]
+2023-11-27 09:44:27.944 [info] GlobalState: Updated local ui state
+2023-11-27 09:44:28.299 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:28.300 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:44:29.078 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:29.078 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:44:30.301 [info] Settings: Updated remote settings
+2023-11-27 09:44:30.361 [info] Settings: Updated last synchronized settings
+2023-11-27 09:44:30.589 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:30.589 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:44:32.482 [info] GlobalState: Updated remote ui state. Added: workbench.view.extension.1-kubernetesContainer.state.hidden,workbench.view.extension.2-cloudRunContainer.state.hidden,workbench.view.extension.3-cloudApiContainer.state.hidden,workbench.view.extension.4-cloudSecretsContainer.state.hidden,workbench.view.extension.api-viewer-explorer.state.hidden,workbench.view.extension.view-container.state.hidden,workbench.view.extension.swagger-to-types.state.hidden,workbench.view.extension.thunder-client-sidebar-view.state.hidden,workbench.view.extension.api-mocked-explorer.state.hidden,workbench.view.extension.gitlens.state.hidden,workbench.view.extension.remix-plugins.state.hidden,workbench.view.extension.commandList.state.hidden,github-john8114,workbench.view.extension.atlascode-drawer.state.hidden,workbench.view.extension.jupyter.state.hidden,workbench.view.extension.tabnine-access.state.hidden,tabnine-Einstein Punk,workbench.view.extension.readme-editor-sidebar-view.state.hidden,workbench.view.extension.pvs-container.state.hidden,workbench.view.extension.portsView.state.hidden,workbench.view.extension.graalvm-explorer.state.hidden,workbench.view.extension.solidity-va-cockpit.state.hidden,workbench.view.extension.truffle-activitybar-container.state.hidden,workbench.view.extension.truffle-panel.state.hidden,workbench.view.extension.pubspec-manager.state.hidden,workbench.view.extension.sshfs.state.hidden,workbench.view.extension.snippets-explorer.state.hidden,workbench.view.extension.thunder-client.state.hidden,workbench.view.extension.todo-tree-container.state.hidden,workbench.view.extension.inix.state.hidden,workbench.view.extension.wallaby.state.hidden,workbench.view.extension.wallaby-tree.state.hidden,gitpod-einpunkbootcamp-admin,remote.tunnels.toRestore.ssh-remote+7b2275736572223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a73222c22686f73744e616d65223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a732e7373682e77732d657538342e676974706f642e696f227d.-1123105903,remote.tunnels.toRestore.ssh-remote+7b2275736572223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a73222c22686f73744e616d65223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a732e7373682e77732d657538342e676974706f642e696f227d.2116585962,remote.tunnels.toRestore.ssh-remote+7b2275736572223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a73222c22686f73744e616d65223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a732e7373682e77732d657538342e676974706f642e696f227d.223625106,remote.tunnels.toRestore.ssh-remote+7b2275736572223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a73222c22686f73744e616d65223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a732e7373682e77732d657538342e676974706f642e696f227d.undefined,remote.tunnels.toRestore.ssh-remote+7b2275736572223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a73222c22686f73744e616d65223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a732e7373682e77732d657538342e676974706f642e696f227d.561021579,remote.tunnels.toRestore.ssh-remote+7b2275736572223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a73222c22686f73744e616d65223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a732e7373682e77732d657538342e676974706f642e696f227d.-1340430848,remote.tunnels.toRestore.ssh-remote+7b2275736572223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a73222c22686f73744e616d65223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a732e7373682e77732d657538342e676974706f642e696f227d.-1475691821,remote.tunnels.toRestore.ssh-remote+7b2275736572223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a73222c22686f73744e616d65223a2265696e70756e6b626f6f742d65696e70756e6b676174732d3566787a37796934747a732e7373682e77732d657538342e676974706f642e696f227d.1453446492,remote.tunnels.toRestore.ssh-remote+7b2275736572223a2265696e70756e6b626f6f742d65696e70756e6b6661726d2d74713568766b6c6c7a6971222c22686f73744e616d65223a2265696e70756e6b626f6f742d65696e70756e6b6661726d2d74713568766b6c6c7a69712e7373682e77732d657538342e676974706f642e696f227d.298113199,remote.tunnels.toRestore.ssh-remote+7b2275736572223a2265696e70756e6b626f6f742d65696e70756e6b6661726d2d74713568766b6c6c7a6971222c22686f73744e616d65223a2265696e70756e6b626f6f742d65696e70756e6b6661726d2d74713568766b6c6c7a69712e7373682e77732d657538342e676974706f642e696f227d.-829631263,remote.tunnels.toRestore.ssh-remote+7b2275736572223a2265696e70756e6b626f6f742d65696e70756e6b6661726d2d74713568766b6c6c7a6971222c22686f73744e616d65223a2265696e70756e6b626f6f742d65696e70756e6b6661726d2d74713568766b6c6c7a69712e7373682e77732d657538342e676974706f642e696f227d.-1417874918,http.linkProtectionTrustedDomains,userDataProfiles.state.hidden,tabs-list-width-horizontal,workbench.panel.chatSidebar.hidden,recently.opened,remote.tunnels.toRestore.codespaces+shiny-train-jwqjr49ggqxhqrrg.-1448149689,workbench.view.extension.gitlensInspect.state.hidden,github-devdein,remote.tunnels.toRestore.codespaces+fictional-goggles-r56qwgp9rggfpv7p.-867329572.
+2023-11-27 09:44:32.549 [info] GlobalState: Updated last synchronized ui state
+2023-11-27 09:44:35.153 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:36.072 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:36.073 [info] Extensions: Last sync data state does not exist.
+2023-11-27 09:44:37.391 [info] Extensions: Skipped synchronizing extension because the extension is not found. ascomycota.python-six
+2023-11-27 09:44:38.793 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:38.794 [info] Profiles: Last sync data state does not exist.
+2023-11-27 09:44:38.837 [info] Extensions: Skipped synchronizing extension because the extension is not found. github.copilot-nightly
+2023-11-27 09:44:45.308 [info] Sync started.
+2023-11-27 09:44:46.348 [info] Did reset the local sync state.
+2023-11-27 09:44:46.382 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:46.383 [info] Settings: Last sync data state does not exist.
+2023-11-27 09:44:46.719 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:46.720 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:44:47.465 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:47.465 [info] Settings: Last sync data state does not exist.
+2023-11-27 09:44:48.063 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:48.065 [info] Keybindings: Last sync data state does not exist.
+2023-11-27 09:44:48.623 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:48.624 [info] Snippets: Last sync data state does not exist.
+2023-11-27 09:44:49.862 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:49.862 [info] Tasks: Last sync data state does not exist.
+2023-11-27 09:44:51.032 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:51.034 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:44:52.743 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:52.743 [info] Extensions: Last sync data state does not exist.
+2023-11-27 09:44:54.961 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:54.962 [info] Profiles: Last sync data state does not exist.
+2023-11-27 09:44:56.288 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:56.293 [info] Profiles: Last sync data state does not exist.
+2023-11-27 09:44:56.361 [info] Settings: Updated local settings
+2023-11-27 09:44:56.394 [info] Settings: Updated last synchronized settings
+2023-11-27 09:44:56.400 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-11-27 09:44:56.779 [info] Keybindings: Updated last synchronized keybindings
+2023-11-27 09:44:56.779 [info] Snippets: No changes found during synchronizing snippets.
+2023-11-27 09:44:56.780 [info] Snippets: Updated last synchronized snippets
+2023-11-27 09:44:56.780 [info] Tasks: No changes found during synchronizing tasks.
+2023-11-27 09:44:56.780 [info] Tasks: Updated last synchronized tasks
+2023-11-27 09:44:56.780 [info] GlobalState: Updated global state ["terminal.hidden","workbench.explorer.views.state.hidden","workbench.scm.views.state.hidden","workbench.activity.pinnedViewlets2","nps/lastSessionDate","workbench.view.debug.state.hidden","workbench.statusbar.hidden","workbench.panel.pinnedPanels","cpp.1.lastSessionDate","cpp.1.sessionCount","java.2.lastSessionDate","java.2.sessionCount","javascript.1.lastSessionDate","javascript.1.sessionCount","typescript.1.lastSessionDate","typescript.1.sessionCount","colorThemeData","memento/gettingStartedService","workbench.welcomePage.walkthroughMetadata","workbench.view.remote.state.hidden","workbench.view.extension.liveshare.state.hidden","commandPalette.mru.cache","commandPalette.mru.counter","workbench.view.extension.azure.state.hidden","workbench.view.extensions.state.hidden","workbench.view.extension.test.state.hidden","ces/skipSurvey","workbench.view.sync.state.hidden","workbench.welcomePage.hiddenCategories","remote.explorerType","workbench.view.extension.package-explorer.state.hidden","fileBasedRecommendations/promptedFileExtensions","javascript.1.editedCount","javascript.1.editedDate","nps/skipVersion","snippets.usageTimestamps","fileBasedRecommendations/promptedRecommendations","remoteTunnelServiceUsed","javascript.1.skipVersion","typescript.1.editedCount","typescript.1.editedDate","csharp.1.lastSessionDate","csharp.1.sessionCount"]
+2023-11-27 09:44:56.781 [info] GlobalState: Updated local ui state
+2023-11-27 09:44:56.947 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:56.947 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:44:57.373 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:44:57.374 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:44:59.297 [info] GlobalState: Updated remote ui state. Added: github-einstein-punk.
+2023-11-27 09:44:59.577 [info] GlobalState: Updated last synchronized ui state
+2023-11-27 09:45:09.371 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:45:09.371 [info] Profiles: Last sync data state does not exist.
+2023-11-27 09:45:33.283 [info] Extensions: Skipped synchronizing extension because the extension is not found. github.copilot-nightly
+2023-11-27 09:45:35.393 [info] Extensions: Skipped synchronizing extension because the extension is not found. googlecloudtools.cloudcode
+2023-11-27 09:45:36.019 [info] Extensions: Skipped synchronizing extension because the extension is not found. ascomycota.python-six
+2023-11-27 09:45:37.281 [info] Extensions: Skipped synchronizing extension because the extension is not found. ascomycota.python-six
+2023-11-27 09:45:38.830 [info] Extensions: Skipped synchronizing extension because the extension is not found. github.copilot-nightly
+2023-11-27 09:45:38.902 [info] Extensions: Skipped synchronizing extension because the extension is not found. btwiuse.vscode-remote-server
+2023-11-27 09:45:43.404 [error] Error: net::ERR_HTTP2_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-11-27 09:45:43.406 [error] extensions: net::ERR_HTTP2_PROTOCOL_ERROR
+2023-11-27 09:45:43.512 [info] Profiles: Created profile 'dev-einstein'.
+2023-11-27 09:45:43.523 [info] Profiles: Created profile 'Avax-Lab'.
+2023-11-27 09:45:43.558 [info] Profiles: Created profile 'DevRust'.
+2023-11-27 09:45:43.560 [info] Profiles: Created profile 'Dev-Einpunk'.
+2023-11-27 09:45:43.561 [info] Profiles: Created profile 'Gamex Java'.
+2023-11-27 09:45:43.563 [info] Profiles: Created profile 'einpunk-community'.
+2023-11-27 09:45:43.564 [info] Profiles: Created profile 'Gamex Server'.
+2023-11-27 09:45:43.570 [info] Profiles: Created profile 'eth-brownie'.
+2023-11-27 09:45:43.572 [info] Profiles: Created profile 'einsteinpunk'.
+2023-11-27 09:45:43.577 [info] Profiles: Created profile 'Einstein Punk'.
+2023-11-27 09:45:43.588 [info] Profiles: Created profile 'gamex-staking'.
+2023-11-27 09:45:43.590 [info] Profiles: Created profile 'GITLAB'.
+2023-11-27 09:45:43.594 [info] Profiles: Created profile 'mainDirectory'.
+2023-11-27 09:45:43.596 [info] Profiles: Created profile 'Wallets'.
+2023-11-27 09:45:43.598 [info] Profiles: Created profile 'Predominant Planet'.
+2023-11-27 09:45:43.599 [info] Profiles: Created profile 'scaffold-eth'.
+2023-11-27 09:45:43.600 [info] Profiles: Created profile 'Python'.
+2023-11-27 09:45:43.606 [info] Profiles: Created profile 'MoralisBlueprint'.
+2023-11-27 09:45:43.670 [info] Profiles: Updated last synchronized profiles.
+2023-11-27 09:45:43.674 [info] Sync done. Took 102259ms
+2023-11-27 09:45:43.785 [info] Auto Sync: Triggered by Interval
+2023-11-27 09:45:43.786 [info] Sync started.
+2023-11-27 09:45:44.768 [info] Settings: No changes found during synchronizing settings.
+2023-11-27 09:45:44.779 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-11-27 09:45:44.801 [info] Snippets: No changes found during synchronizing snippets.
+2023-11-27 09:45:44.814 [info] Tasks: No changes found during synchronizing tasks.
+2023-11-27 09:45:49.155 [info] GlobalState: Updated remote ui state. Updated: memento/gettingStartedService.
+2023-11-27 09:45:49.181 [info] GlobalState: Updated last synchronized ui state
+2023-11-27 09:45:49.184 [info] Extensions: Skipped synchronizing extensions as it is running already.
+2023-11-27 09:45:49.184 [info] Profiles: Skipped synchronizing profiles as it is running already.
+2023-11-27 09:45:49.192 [info] Syncing profile. Avax-Lab
+2023-11-27 09:45:49.194 [info] Settings (Avax-Lab): Migrating last sync user data. Resource does not exist.
+2023-11-27 09:45:49.195 [info] Settings (Avax-Lab): Last sync data state does not exist.
+2023-11-27 09:45:51.135 [info] Request failed {"url":"https://vscode-sync.trafficmanager.net/v1/collection/6a7e14e1-d1f9-4d7b-989c-f17e3552427a/resource/settings/latest","status":405,"execution-id":"48869cb6-958f-4679-9949-6a62a3efd5f1","operation-id":"a50784a38f4d47299d7b5cf61161db04"} Cannot modify non-existent collection
+2023-11-27 09:45:51.151 [error] MethodNotFound (UserDataSyncError) syncResource:unknown operationId:a50784a38f4d47299d7b5cf61161db04: GET request 'https://vscode-sync.trafficmanager.net/v1/collection/6a7e14e1-d1f9-4d7b-989c-f17e3552427a/resource/settings/latest' failed because the requested endpoint is not found (405). Cannot modify non-existent collection
+    at l.D (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:128855)
+    at async l.readResource (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:124463)
+    at async u.getRemoteUserData (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:19160)
+    at async u.U (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:10862)
+    at async u.sync (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:10186)
+    at async a.sync (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:111662)
+    at async r.S (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:103968)
+    at async r.Q (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:103437)
+    at async r.P (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:103003)
+2023-11-27 09:45:51.153 [info] Auto Sync: Client is making invalid requests. Cleaning up data...
+2023-11-27 09:45:53.134 [info] Auto Sync: Retrying sync...
+2023-11-27 09:45:53.134 [info] Sync started.
+2023-11-27 09:45:53.436 [error] Error: net::ERR_HTTP2_PROTOCOL_ERROR
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-11-27 09:45:53.438 [error] extensions: net::ERR_HTTP2_PROTOCOL_ERROR
+2023-11-27 09:45:53.441 [info] Sync done. Took 245818ms
+2023-11-27 09:45:53.757 [info] Settings: No changes found during synchronizing settings.
+2023-11-27 09:45:53.792 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-11-27 09:45:53.817 [info] Snippets: No changes found during synchronizing snippets.
+2023-11-27 09:45:53.836 [info] Tasks: No changes found during synchronizing tasks.
+2023-11-27 09:45:53.896 [info] GlobalState: No changes found during synchronizing ui state.
+2023-11-27 09:45:53.900 [info] Extensions: Skipped synchronizing extensions as it is running already.
+2023-11-27 09:45:53.900 [info] Profiles: Skipped synchronizing profiles as it is running already.
+2023-11-27 09:45:53.911 [info] Syncing profile. Avax-Lab
+2023-11-27 09:45:53.914 [info] Settings (Avax-Lab): Migrating last sync user data. Resource does not exist.
+2023-11-27 09:45:53.915 [info] Settings (Avax-Lab): Last sync data state does not exist.
+2023-11-27 09:45:55.059 [info] Request failed {"url":"https://vscode-sync.trafficmanager.net/v1/collection/6a7e14e1-d1f9-4d7b-989c-f17e3552427a/resource/settings/latest","status":405,"execution-id":"6e9544bc-e913-4426-9946-747d9d9b4fe2","operation-id":"41e845b00f994c079724a9186b83e94d"} Cannot modify non-existent collection
+2023-11-27 09:45:55.065 [error] MethodNotFound (UserDataSyncError) syncResource:unknown operationId:41e845b00f994c079724a9186b83e94d: GET request 'https://vscode-sync.trafficmanager.net/v1/collection/6a7e14e1-d1f9-4d7b-989c-f17e3552427a/resource/settings/latest' failed because the requested endpoint is not found (405). Cannot modify non-existent collection
+    at l.D (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:128855)
+    at async l.readResource (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:124463)
+    at async u.getRemoteUserData (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:19160)
+    at async u.U (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:10862)
+    at async u.sync (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:10186)
+    at async a.sync (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:111662)
+    at async r.S (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:103968)
+    at async r.Q (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:103437)
+    at async r.P (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:108:103003)
+2023-11-27 09:45:55.067 [info] Auto Sync: Triggered by Activity
+2023-11-27 09:45:55.068 [info] Sync started.
+2023-11-27 09:45:55.500 [info] Auto Sync: Disabled.
+2023-11-27 09:45:55.500 [info] Auto Sync: Stopped
+2023-11-27 09:45:55.548 [info] Did reset the local sync state.
+2023-11-27 09:45:55.548 [info] Auto Sync: Turned off sync because current client is making requests to server that are not supported
+2023-11-27 09:45:56.113 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:45:56.114 [info] Settings: Last sync data state does not exist.
+2023-11-27 09:45:57.105 [info] Settings: No changes found during synchronizing settings.
+2023-11-27 09:45:57.150 [info] Settings: Updated last synchronized settings
+2023-11-27 09:45:57.163 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:45:57.163 [info] Keybindings: Last sync data state does not exist.
+2023-11-27 09:45:57.402 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:45:57.403 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:45:59.544 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-11-27 09:45:59.590 [info] Keybindings: Updated last synchronized keybindings
+2023-11-27 09:45:59.594 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:45:59.595 [info] Snippets: Last sync data state does not exist.
+2023-11-27 09:45:59.976 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:45:59.976 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:46:00.962 [info] Snippets: No changes found during synchronizing snippets.
+2023-11-27 09:46:01.030 [info] Snippets: Updated last synchronized snippets
+2023-11-27 09:46:01.072 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:46:01.072 [info] Tasks: Last sync data state does not exist.
+2023-11-27 09:46:01.274 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:46:01.275 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:46:01.894 [info] Tasks: No changes found during synchronizing tasks.
+2023-11-27 09:46:01.993 [info] Tasks: Updated last synchronized tasks
+2023-11-27 09:46:02.012 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:46:02.013 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:46:02.178 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:46:02.179 [info] GlobalState: Last sync data state does not exist.
+2023-11-27 09:46:03.522 [info] GlobalState: No changes found during synchronizing ui state.
+2023-11-27 09:46:03.575 [info] GlobalState: Updated last synchronized ui state
+2023-11-27 09:46:03.584 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:46:03.585 [info] Extensions: Last sync data state does not exist.
+2023-11-27 09:46:13.866 [info] Extensions: Skipped synchronizing extension because the extension is not found. ascomycota.python-six
+2023-11-27 09:46:13.869 [info] Extensions: Skipped synchronizing extension because the extension is not found. github.copilot-nightly
+2023-11-27 09:46:14.557 [info] Extensions: Skipped synchronizing extension because the extension is not found. btwiuse.vscode-remote-server
+2023-11-27 09:46:21.898 [info] Extensions: Skipped synchronizing extension because the extension is not found. googlecloudtools.cloudcode
+2023-11-27 09:58:35.358 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:58:35.360 [info] Extensions: Last sync data state does not exist.
+2023-11-27 09:58:46.665 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:58:46.666 [info] Extensions: Last sync data state does not exist.
+2023-11-27 09:59:02.831 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-11-27 09:59:02.832 [info] Extensions: Last sync data state does not exist.

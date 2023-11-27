@@ -6,3 +6,15 @@
 2023-11-27 09:40:43.976 [info] [email offline_access openid profile] Got 0 sessions
 2023-11-27 09:41:10.683 [info] [email offline_access openid profile] Getting sessions
 2023-11-27 09:41:10.683 [info] [email offline_access openid profile] Got 0 sessions
+2023-11-27 09:41:45.938 [info] [email offline_access openid profile] Getting sessions
+2023-11-27 09:41:45.938 [info] [email offline_access openid profile] Got 0 sessions
+2023-11-27 09:41:51.101 [info] [email offline_access openid profile] Getting sessions
+2023-11-27 09:41:51.101 [info] [email offline_access openid profile] Got 0 sessions
+2023-11-27 09:41:51.985 [info] [email offline_access openid profile] Creating session
+2023-11-27 09:44:01.233 [info] [email offline_access openid profile] 'f8cdef31-a31e-4b4a-93e4-5f571e91255a/1:live.com:00030000496781A1/93115e0d-16a6-4227-a42a-6d4a5d33163d' session successfully created!
+2023-11-27 09:44:01.322 [info] [email offline_access openid profile] Getting sessions
+2023-11-27 09:44:01.322 [info] [email offline_access openid profile] Got 1 sessions
+2023-11-27 09:44:43.830 [info] [email offline_access openid profile] Getting sessions
+2023-11-27 09:44:43.830 [info] [email offline_access openid profile] Got 1 sessions
+2023-11-27 09:45:16.876 [info] Getting sessions for all scopes...
+2023-11-27 09:45:16.876 [info] Got 0 sessions for all scopes...

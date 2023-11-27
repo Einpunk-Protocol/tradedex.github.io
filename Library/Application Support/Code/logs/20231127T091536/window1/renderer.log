@@ -8,3 +8,8 @@
 2023-11-27 09:36:19.853 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
 2023-11-27 09:41:28.276 [info] Settings Sync: Updating due to change in sessions
 2023-11-27 09:41:28.279 [info] Settings Sync: Updated current session 7ea9f9557a835314
+2023-11-27 09:44:01.235 [info] Settings Sync: Updating due to change in sessions
+2023-11-27 09:44:01.320 [info] Settings Sync: Updated current session f8cdef31-a31e-4b4a-93e4-5f571e91255a/1:live.com:00030000496781A1/93115e0d-16a6-4227-a42a-6d4a5d33163d
+2023-11-27 09:44:45.231 [info] Settings Sync: Updated current session 7ea9f9557a835314
+2023-11-27 09:45:17.748 [error] No registered selector for ID: ms-vscode.npm-command: Error: No registered selector for ID: ms-vscode.npm-command
+    at vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1544:26325
