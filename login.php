@@ -153,7 +153,7 @@ require "config/login_logic.php"
 						<!-- Section Title Starts -->
 						<div class="row text-center">
 							<h2 class="title-head hidden-xs">member <span>login</span></h2>
-							<p class="info-form">Login to explore Crypto Elite</p>
+							<p class="info-form">Login to explore Trade DEX</p>
 						</div>
 						<!-- Section Title Ends -->
 						<!-- Form Starts -->
@@ -184,7 +184,7 @@ require "config/login_logic.php"
 					</div>
 				</div>
 				<!-- Copyright Text Starts -->
-				<p class="text-center">&COPY; 2010 Crypto Elite</p>
+				<p class="text-center">&COPY; 2010 Trade DEX</p>
 				<!-- Copyright Text Ends -->
 			</div>
 		</div>

@@ -153,7 +153,7 @@ require "config/register_logic.php"
                         <!-- Section Title Starts -->
                         <div class="row text-center">
                             <h2 class="title-head hidden-xs">get <span>started</span></h2>
-                            <p class="info-form">Sign up and explore crypto elite.</p>
+                            <p class="info-form">Sign up and explore Trade DEX.</p>
                         </div>
                         <!-- Section Title Ends -->
                         <!-- Form Starts -->
@@ -211,7 +211,7 @@ require "config/register_logic.php"
                     </div>
                 </div>
                 <!-- Copyright Text Starts -->
-                <p class="text-center">&COPY; 2010 Crypto Elite</p>
+                <p class="text-center">&COPY; 2010 Trade DEX</p>
                 <!-- Copyright Text Ends -->
             </div>
         </div>
