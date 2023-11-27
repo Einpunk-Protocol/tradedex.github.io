@@ -57,7 +57,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -532,13 +533,6 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Split in &&Group"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -627,7 +621,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     }
                 ]
             },
@@ -644,7 +639,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1100,6 +1096,10 @@
                                     "label": "Avax-Lab"
                                 },
                                 {
+                                    "id": "workbench.profiles.actions.profileEntry.-5e18d521",
+                                    "label": "Binance"
+                                },
+                                {
                                     "id": "workbench.profiles.actions.profileEntry.__default__profile__",
                                     "label": "Default"
                                 },
@@ -1110,6 +1110,10 @@
                                 {
                                     "id": "workbench.profiles.actions.profileEntry.5a4ebb9",
                                     "label": "dev-einstein"
+                                },
+                                {
+                                    "id": "workbench.profiles.actions.profileEntry.-c448326",
+                                    "label": "devein"
                                 },
                                 {
                                     "id": "workbench.profiles.actions.profileEntry.4fd017be",
@@ -1456,11 +1460,6 @@
                 "label": "⌘K ⌃⌥⌘¥",
                 "isNative": false,
                 "userSettingsLabel": "cmd+k ctrl+alt+cmd+[IntlYen]"
-            },
-            "workbench.action.splitEditorInGroup": {
-                "label": "⌘K ⇧⌘¥",
-                "isNative": false,
-                "userSettingsLabel": "cmd+k shift+cmd+[IntlYen]"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Alt+Cmd+0",
@@ -1818,6 +1817,14 @@
         {
             "location": "68f0b617",
             "name": "MoralisBlueprint"
+        },
+        {
+            "location": "-5e18d521",
+            "name": "Binance"
+        },
+        {
+            "location": "-c448326",
+            "name": "devein"
         }
     ]
 }

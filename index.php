@@ -3,7 +3,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <?php
-$title = 'Crypto Elite';
+$title = 'Trade DEX';
 include 'include/head.php' ?>
 <!-- Live Style Switcher Ends - demo only -->
 <!-- Wrapper Starts -->
@@ -165,7 +165,7 @@ include 'include/head.php' ?>
       <div class="row text-center">
         <h2 class="title-head">About <span>Us</span></h2>
         <div class="title-head-subtitle">
-          <p>Crypto elite is a legally operating company.</p>
+          <p>Trade DEX is a legally operating company.</p>
         </div>
       </div>
       <!-- Section Title Ends -->
@@ -178,7 +178,7 @@ include 'include/head.php' ?>
         <!-- Image Ends -->
         <!-- Content Starts -->
         <div class="col-sm-12 col-md-7 col-lg-6">
-          <h3 class="title-about">WE ARE CRYPTO ELITE</h3>
+          <h3 class="title-about">WE ARE Trade DEX</h3>
           <p class="about-text">
             A place for everyone who wants to simply invest in Bitcoins and
             other Cryptocurrencies. Deposit funds using bitcoin, ethereum or
@@ -210,7 +210,7 @@ include 'include/head.php' ?>
             </div>
             <div id="menu3" class="tab-pane fade">
               <p>
-                Crypto elite using advanced investment techniques, such as
+                Trade DEX using advanced investment techniques, such as
                 financial leverage, guarantees huge profits even at the
                 currently fluctuating rate of cryptocurrencies. When
                 starting cooperation with us you have 100% guarantee that
@@ -355,7 +355,7 @@ include 'include/head.php' ?>
     <div class="container">
       <!-- Section Title Starts -->
       <div class="row text-center">
-        <h2 class="title-head">Crypto Elite <span>Reviews</span></h2>
+        <h2 class="title-head">Trade DEX <span>Reviews</span></h2>
         <div class="title-head-subtitle">
           <p>See what people are saying about us.</p>
         </div>
@@ -397,7 +397,7 @@ include 'include/head.php' ?>
             <div>
               <blockquote>
                 <p>
-                  Crypto elite approach of identifying our future
+                  Trade DEX approach of identifying our future
                   needs/goals and then working out how to achieve them is a
                   vital approach to reduce the lottery of financial
                   planning. Much bettr than the previous IFA approach of
@@ -419,7 +419,7 @@ include 'include/head.php' ?>
                   and the financial plans and makes very good sense. Jeremy
                   simplifies a complex subject keeping us well informed of
                   the latest changes and adjusting our mindset to suit the
-                  current legislation. Crypto elite is very client centred
+                  current legislation. Trade DEX is very client centred
                   and professional and we would happily recommend their
                   services to others.
                 </p>
@@ -439,7 +439,7 @@ include 'include/head.php' ?>
                   plan and i was just surprised. I thought it was too real
                   to be true. I was then contacted by an admin to write a
                   testimonial about the platform in which I gladly did.
-                  Crypto Elite is a real deal.
+                  Trade DEX is a real deal.
                 </p>
                 <footer><span>Rawia Chniti</span>, Russia</footer>
               </blockquote>
@@ -455,10 +455,10 @@ include 'include/head.php' ?>
                   part is when i saw my money growing. We picked the VVIP
                   plan. I was then contacted by an admin to write a
                   testimonial about the platform in which I gladly did.
-                  Crypto Elite has been a life changer since I started
+                  Trade DEX has been a life changer since I started
                   investing .
                 </p>
-                <footer><span>Karen Welsh</span>, South Africa</footer>
+                <footer><span>Trade DEX</span>, South Africa</footer>
               </blockquote>
             </div>
           </div>

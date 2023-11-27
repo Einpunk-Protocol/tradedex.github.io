@@ -13,3 +13,6 @@
 2023-11-27 09:44:45.231 [info] Settings Sync: Updated current session 7ea9f9557a835314
 2023-11-27 09:45:17.748 [error] No registered selector for ID: ms-vscode.npm-command: Error: No registered selector for ID: ms-vscode.npm-command
     at vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1544:26325
+2023-11-27 10:03:19.927 [error] XHR failed: Error: XHR failed
+    at y.onerror (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:95:1261)
+2023-11-27 10:09:49.671 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage
