@@ -1,0 +1,19 @@
+{
+  "name": "tradedex.github.io",
+  "version": "1.0.0",
+  "description": "An investment website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "yarn http-server"
+  },
+  "repository": "git+https://github.com/Einpunk-Protocol/tradedex.github.io.git",
+  "author": "Dev Einstein Punk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Einpunk-Protocol/tradedex.github.io/issues"
+  },
+  "homepage": "https://github.com/Einpunk-Protocol/tradedex.github.io#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
